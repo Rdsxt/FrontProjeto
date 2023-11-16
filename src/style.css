@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family:"raleway-italic";
+    src: url("../public/assets/Raleway-Italic-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family:"raleway-variableFont";
+    src: url("../public/assets/Raleway-VariableFont_wght.ttf");
+}
